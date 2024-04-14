@@ -1,7 +1,7 @@
 {
     "models": [
-        "Potion-Maker/Pio",
         "Potion-Maker/Tia",
+        "Potion-Maker/Pio",
         "bilibili-live/22",
         "bilibili-live/33",
         [
@@ -30,17 +30,18 @@
             "HyperdimensionNeptunia/histoire",
             "HyperdimensionNeptunia/histoirenohover"
         ],
+        [
         "Koharu/koharu",
         "Koharu/haruto"
+        ]
     ],
     "messages": [
-        "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Potion Maker 的 Tia 酱 ~",
+        "来自 Potion Maker 的 Pio 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 耶 ~",
         "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 超次元游戏：海王星 系列",
-        "Koharu!",
-        "Haruto!"
+        "Koharu!"
     ]
 }
