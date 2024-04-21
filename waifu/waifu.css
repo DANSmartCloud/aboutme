@@ -71,6 +71,7 @@
 	height: 300px;
 	position: relative;
 	width: 300px;
+	cursor: url(https://dansmartcloud.github.io/aboutme/cur/UpArrow.cur), auto;
 }
 
 #live2d:active {
